@@ -1,0 +1,11 @@
+VARIABLE DESCRIPTIONS:
+Variable	          Description
+user_id	              User ID
+departement           Department ID
+birth	              Date of Birth
+order_id              Order ID
+order_date	          Date of Order          
+total			      Total Expenditure
+nb_tshirts	          Number of Shirts bought
+tshirt_price	      Price of one shirt
+category		      Shirt Description
